@@ -16,6 +16,7 @@ NS_ASSUME_NONNULL_BEGIN
 - (NSString*)getStreamURL;
 - (NSString*)getId;
 - (BOOL)isMuted;
+- (void)setMuted:(BOOL)mute;
 - (BOOL)isLocal;
 - (void)dispose;
 - (RTCVideoView *) render;

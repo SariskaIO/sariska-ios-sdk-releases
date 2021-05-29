@@ -51,19 +51,19 @@
 		</data>
 		<key>Headers/Conference.h</key>
 		<data>
-		gCyVb932MqaB+Jw0M5Xg7MYuI6o=
+		OxdDU0EMCrVkeCfAE9CaslqTlKs=
 		</data>
 		<key>Headers/Connection.h</key>
 		<data>
-		PPwZ3OiwvequKwI/5WxkTMFeOd4=
+		GF5roajyNrxeqJ0otInGBcd8DM0=
 		</data>
 		<key>Headers/JitsiLocalTrack.h</key>
 		<data>
-		8h5xxKQoEBiMuQiJH/6fqC841I8=
+		QFEL2xsyFNmiEQzADxPXXVbplqA=
 		</data>
 		<key>Headers/JitsiRemoteTrack.h</key>
 		<data>
-		z5sUHDpyDub7vtzJGcjWSn7CWGo=
+		JID0dt1HzBZorMZKISesUwAALbY=
 		</data>
 		<key>Headers/Participant.h</key>
 		<data>
@@ -75,7 +75,7 @@
 		</data>
 		<key>Headers/SariskaMediaTransport.h</key>
 		<data>
-		JcternM2A49gcX87Pe7XwOuzGbI=
+		h8PAPDsHkSdrEStcrRQiuQBRYqs=
 		</data>
 		<key>Headers/sariska.h</key>
 		<data>
@@ -91,7 +91,7 @@
 		</data>
 		<key>PrivateHeaders/Params.h</key>
 		<data>
-		ouDK0VNMMbR7yxOKqwJnt6zesgw=
+		88p5DIUwy5voDW00KWGW6KYBcVY=
 		</data>
 		<key>assets/node_modules/react-native-url-polyfill/package.json</key>
 		<data>
@@ -103,7 +103,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		THFXRj8er4hEYr8THFC9YHqwtNM=
+		ci9DgLSCKFku15+W7rS207qXaw0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -184,28 +184,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SvUtP06bEcY207/ypVNNdOyLdvwOaAj8Dyr19KR5KOY=
+			9Z87VTM+G1Fv+HmR51bh4TeB8UOSHWB7aL/0wZnAsOY=
 			</data>
 		</dict>
 		<key>Headers/Connection.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vo1TTZz08YYpY28bf6xRmioQpnve0udYcHHfyzdGioQ=
+			R83L+VtG/8p0vCDPoVYPCDU/yqwlzjka4tgPhNe2m8Y=
 			</data>
 		</dict>
 		<key>Headers/JitsiLocalTrack.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xK4a7WMvdK8boPCyduH0iJboio9MbnW19JATHXSAhmM=
+			xVmtgBoqnkZfLFm2nPS9MxWJd9lC8iq+pEJbWcCsre4=
 			</data>
 		</dict>
 		<key>Headers/JitsiRemoteTrack.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			asEL1/YxmHLjbCP3AipimRKOsBI+H9EttTseNPiango=
+			FOGavDpa+e6UjdigNBpLRk2bOppv0WQL4zPi6sCn3Mk=
 			</data>
 		</dict>
 		<key>Headers/Participant.h</key>
@@ -226,7 +226,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rssbdVl7t2bya6wVrkhhq4fES4oUh086JP7p/abeCXY=
+			I1jtPZF6jpS1rXO873RqOVQfmDwR3+LJpLPrEtoCi4A=
 			</data>
 		</dict>
 		<key>Headers/sariska.h</key>
@@ -247,7 +247,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2CC4TlG1BtUB0Z7iVbVDoVrCL3zI1TW4H8/aff500GM=
+			cY/giLYkn6XqP6SKwX0bMK/sld4M6PNNvgs92Qdv36U=
 			</data>
 		</dict>
 		<key>assets/node_modules/react-native-url-polyfill/package.json</key>
@@ -268,7 +268,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iZ3nXOLnDARpA3qjhzbaS3OYfaSbPIhp/V+egX2t7QE=
+			cKHn+9i+41wfcMR8g6Zv6DGj5e0TDvqxwBXHyebmLfA=
 			</data>
 		</dict>
 	</dict>

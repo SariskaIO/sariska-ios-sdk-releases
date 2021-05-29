@@ -1,5 +1,7 @@
 #import <Foundation/Foundation.h>
 #import "JitsiLocalTrack.h"
+#import "JitsiRemoteTrack.h"
+#import "Participant.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
@@ -51,16 +53,26 @@ typedef void(^ConferenceCallbackParam4)(id,id,id,id);
 - (void)stopTranscriber;
 - (void)startTranscriber;
 - (void)revokeOwner:(NSString *) id;
-- (void)startRecording:(NSString *) mode streamId:(NSString *)streamId;
+- (void)startRecording:(NSDictionary *)options;
 - (void)stopRecording:(NSString *) sessionId;
 - (void)setLocalParticipantProperty:(NSString *) propertyKey propertyValue:(NSString *) propertyValue;
-- (void)sendFeeback:(NSString *) overallFeedback propertyValue:(NSString *) detailedFeedback;
+- (void)removeLocalParticipantProperty:(NSString *) name;
+- (void)sendFeedback:(NSString *) overallFeedback propertyValue:(NSString *) detailedFeedback;
 - (void)leave;
+- (void)dial:(NSNumber *) number;
+- (void)selectParticipants: (NSMutableArray *) participantIds;
+- (Participant *) findParticipant: (NSString *) participantId;
+- (JitsiRemoteTrack *) findTrack: (NSString *) trackId;
+- (NSNumber *) getParticipantCount: (BOOL) hidden;
+- (NSMutableArray <Participant*> *) getParticipants;
+- (NSMutableArray <JitsiLocalTrack*> *) getLocalTracks;
+- (NSMutableArray <JitsiRemoteTrack*> *) getRemoteTracks;
 - (void)addEventListener: (NSString * ) event callback0: (ConferenceCallbackParam0) callback0;
 - (void)addEventListener: (NSString *) event callback1: (ConferenceCallbackParam1) callback1;
 - (void)addEventListener: (NSString *) event callback2: (ConferenceCallbackParam2) callback2;
 - (void)addEventListener: (NSString *) event callback3: (ConferenceCallbackParam3) callback3;
 - (void)addEventListener: (NSString *) event callback4: (ConferenceCallbackParam4) callback4;
 - (void)removeEventListener: (NSString *) event;
+- (void)newConferenceMessage:(NSString *) action m:(NSDictionary *) m;
 @end
 NS_ASSUME_NONNULL_END

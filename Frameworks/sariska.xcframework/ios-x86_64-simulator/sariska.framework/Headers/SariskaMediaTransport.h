@@ -1,5 +1,6 @@
 #import <Foundation/Foundation.h>
 #import "Connection.h"
+#import "JitsiLocalTrack.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
@@ -11,6 +12,7 @@ typedef void(^LocalTrackCallback)(NSMutableArray * tracks);
 + (Connection *)JitsiConnection:(NSString *)token NS_SWIFT_NAME(JitsiConnection(token:));
 + (void)createLocalTracks: (NSDictionary *) options callback: (LocalTrackCallback) callback;
 + (void)sendEvent: (NSString * )eventName  payload: (NSDictionary *) payload;
++ (NSMutableArray <JitsiLocalTrack*> *)getLocalTracks;
 - (void)newSariskaMediaTransportMessage: (NSString *) action m: (NSDictionary *) m;
 - (void)newLocalTrackMessage: (NSString * )action  m: (NSArray *) m;
 

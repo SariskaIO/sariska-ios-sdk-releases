@@ -15,7 +15,7 @@ typedef void(^ConnectionCallback)(void);
 - (void)disconnect;
 - (void)addFeature:(NSDictionary *)featureFlags;
 - (void)removeFeature:(NSDictionary *)featureFlags;
-
+- (void)newConnectionMessage:(NSString *)action;
 @end
  
 NS_ASSUME_NONNULL_END

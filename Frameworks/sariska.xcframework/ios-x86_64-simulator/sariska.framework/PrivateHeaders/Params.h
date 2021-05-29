@@ -14,6 +14,7 @@
 + (NSDictionary *)createParams:(NSString *)action fromInt:(NSNumber *) fromInt  fromBool: (BOOL) fromBool;
 + (NSDictionary *)createParams:(NSString *)action fromInt:(NSNumber *) fromInt  fromString: (NSString *) fromString;
 + (NSDictionary *)createParams:(NSString *)action fromDict: (NSDictionary *) fromDict;
++ (NSDictionary *)createParams:(NSString *)action fromArr: (NSMutableArray *) fromArr;
 + (NSDictionary *)createConnection:(NSString *)token;
 + (NSDictionary *)createConference;
 + (NSDictionary *)createTrackParams:(NSDictionary *)param1;
