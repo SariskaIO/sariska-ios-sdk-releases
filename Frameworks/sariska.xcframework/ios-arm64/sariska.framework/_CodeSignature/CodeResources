@@ -6,7 +6,7 @@
 	<dict>
 		<key>AccessibilityResources.bundle/Info.plist</key>
 		<data>
-		JJfO4pmcXYVMO3IYNXF9ZBrApLs=
+		GKwouU2Un/A4u1UNSIUTRl/SRBA=
 		</data>
 		<key>AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -19,23 +19,23 @@
 		</dict>
 		<key>Frameworks/WebRTC.framework/Info.plist</key>
 		<data>
-		tMOud0Df1MkXIFLJiqXP/SEUmm4=
+		eI5wBn1OTEPSwl33z6jkyAGQ8AE=
 		</data>
 		<key>Frameworks/WebRTC.framework/WebRTC</key>
 		<data>
-		k2ZPx/lcBXicAQnmYoXFvDzhxaU=
+		CQla68boHM8hQ5A4jiqUKGwC6Jk=
 		</data>
 		<key>Frameworks/WebRTC.framework/_CodeSignature/CodeResources</key>
 		<data>
-		KyPezFOWo9BvpaeHUUSCwn1OYQ8=
+		6odthJtYxdsiUmMlXMACHBS1zEM=
 		</data>
 		<key>Headers/Conference.h</key>
 		<data>
-		OxdDU0EMCrVkeCfAE9CaslqTlKs=
+		uunxAcx9pQNGRlytgi6fk4EP9ac=
 		</data>
 		<key>Headers/Connection.h</key>
 		<data>
-		GF5roajyNrxeqJ0otInGBcd8DM0=
+		jO9C3bX8dd1GRqwsk1TYgwMoNRo=
 		</data>
 		<key>Headers/JitsiLocalTrack.h</key>
 		<data>
@@ -55,7 +55,7 @@
 		</data>
 		<key>Headers/SariskaMediaTransport.h</key>
 		<data>
-		h8PAPDsHkSdrEStcrRQiuQBRYqs=
+		41OrhVVpdVNggNBFqXbGDhOkoHE=
 		</data>
 		<key>Headers/sariska.h</key>
 		<data>
@@ -63,7 +63,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ZLfnABANAD79tytSyHAKsynMDyw=
+		3rS5y0/Nu35OAUYL6F2/xFi7JeI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -71,19 +71,19 @@
 		</data>
 		<key>PrivateHeaders/Params.h</key>
 		<data>
-		88p5DIUwy5voDW00KWGW6KYBcVY=
+		ZiBdm65J7jtmCpfv0vmTDBHjSkA=
 		</data>
 		<key>assets/node_modules/react-native-url-polyfill/package.json</key>
 		<data>
-		JeyaPaT8c5qBClW5gGa3YQR7sLw=
+		8iSTUB6ryYOfXPoJzT8bvjP9raM=
 		</data>
 		<key>assets/node_modules/react-native/package.json</key>
 		<data>
-		qJjNa8UXBf9RV8C6/923mSXNcoY=
+		3LX2GoyeGjx6zhvwPTHpTo03B2U=
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		ci9DgLSCKFku15+W7rS207qXaw0=
+		fZcZVLqxRKn5Kl2/CDzg2jQxeK0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -92,7 +92,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FXyqpOj7Ubqw5D6WqlFzqZrTNY5/cJ2FKl+yad8+yJ0=
+			QJm6Yo9MmR2oMvaA8BH1P43qhclUM49mC4CZG+gmoew=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
@@ -108,35 +108,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VDfcF8m32SF1lek24LBtI9rtt+A9xXRLnpqRiD6DSfg=
+			27UXKPIPLEqNkZuyxTLRWL8x1LxYaDRUS3u9tNoL1t8=
 			</data>
 		</dict>
 		<key>Frameworks/WebRTC.framework/WebRTC</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bgK1RYaSRpO/w0t9p1RNiyHoARI6XVlnOQm6MAdeJkI=
+			6VcTdMvamoDRstrzQ3UXfwRcpKY7cXFjPOWR33naS/0=
 			</data>
 		</dict>
 		<key>Frameworks/WebRTC.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pvvcx/9zArRTSnas5+/XIhHNbSJ8PB1G1Pull4ol+bg=
+			LzH35LnCaPCvXRlPHfEJCh++KvCETN0GYV1L3V8PRvo=
 			</data>
 		</dict>
 		<key>Headers/Conference.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9Z87VTM+G1Fv+HmR51bh4TeB8UOSHWB7aL/0wZnAsOY=
+			mCkfMvZRq9fOlESqhXI2LF+OC+l+lmOWoiASfPdpu/4=
 			</data>
 		</dict>
 		<key>Headers/Connection.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			R83L+VtG/8p0vCDPoVYPCDU/yqwlzjka4tgPhNe2m8Y=
+			07qZJdyYVHWBFrbf70qLfxxThNvzuIDHjdMTGs/Ztac=
 			</data>
 		</dict>
 		<key>Headers/JitsiLocalTrack.h</key>
@@ -171,7 +171,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			I1jtPZF6jpS1rXO873RqOVQfmDwR3+LJpLPrEtoCi4A=
+			e/J8p4C1DOCA3ol2BHYweeSVzMgeuQ1bbdEQe2+Txag=
 			</data>
 		</dict>
 		<key>Headers/sariska.h</key>
@@ -192,28 +192,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cY/giLYkn6XqP6SKwX0bMK/sld4M6PNNvgs92Qdv36U=
+			rZFOi6kDMYo3Q82cUvtRgafDmzG7g1EVo+u2UxUVSqY=
 			</data>
 		</dict>
 		<key>assets/node_modules/react-native-url-polyfill/package.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kj23xLydyhfWLDGy3iNLfZmGHAwxrMXdxhs8G8MNjUY=
+			762/prPhIHyzc3NUBMQIt88hc/L9YJoXywdXEJc1dns=
 			</data>
 		</dict>
 		<key>assets/node_modules/react-native/package.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			v2YijfOQo0PLYH3IhkUH0QLff2OhpVy0fx/Wda/m6HA=
+			RG5ogK5DeoWTc9z7q1Gr5NmZOzMw6Qnw/UjzkBQGkVQ=
 			</data>
 		</dict>
 		<key>main.jsbundle</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cKHn+9i+41wfcMR8g6Zv6DGj5e0TDvqxwBXHyebmLfA=
+			fmnXAb1pg3MnF2n2Sf37AuRWOzfBbMcev/NdWRFMVfI=
 			</data>
 		</dict>
 	</dict>

@@ -6,11 +6,11 @@
 	<dict>
 		<key>AccessibilityResources.bundle/Info.plist</key>
 		<data>
-		qQ7N4YtC5D13q+WwcsGJKapyVEE=
+		KL2csf6SRbch5sr5thrijto0Azw=
 		</data>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		ttR3ybCKObfyTOkrcFA71v3bXl8=
+		4fBMAmE8YGwno29SuKjKi2Ggl5U=
 		</data>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		HvaZzwLOeR+2Gd85+sejVunMVHI=
+		RUvmPobz/SzQt7uQABxkoba0Y6g=
 		</data>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeResources</key>
 		<data>
@@ -39,23 +39,23 @@
 		</dict>
 		<key>Frameworks/WebRTC.framework/Info.plist</key>
 		<data>
-		KZR8ITauzjhUIs7UYXr+HgYGAhg=
+		/zlHzk1T019ktHVgvddfuXLsvJg=
 		</data>
 		<key>Frameworks/WebRTC.framework/WebRTC</key>
 		<data>
-		+CAq67MfIiAxN03ZbAGy3hJNq9o=
+		BrPyE/w4MdjpHIiMt1eIfaJPw0U=
 		</data>
 		<key>Frameworks/WebRTC.framework/_CodeSignature/CodeResources</key>
 		<data>
-		mvHOeTCt7EK/jbegIbFybIjDbrs=
+		KV1LPLrJJwHFpvlU7SoC266EMgU=
 		</data>
 		<key>Headers/Conference.h</key>
 		<data>
-		OxdDU0EMCrVkeCfAE9CaslqTlKs=
+		uunxAcx9pQNGRlytgi6fk4EP9ac=
 		</data>
 		<key>Headers/Connection.h</key>
 		<data>
-		GF5roajyNrxeqJ0otInGBcd8DM0=
+		jO9C3bX8dd1GRqwsk1TYgwMoNRo=
 		</data>
 		<key>Headers/JitsiLocalTrack.h</key>
 		<data>
@@ -75,7 +75,7 @@
 		</data>
 		<key>Headers/SariskaMediaTransport.h</key>
 		<data>
-		h8PAPDsHkSdrEStcrRQiuQBRYqs=
+		41OrhVVpdVNggNBFqXbGDhOkoHE=
 		</data>
 		<key>Headers/sariska.h</key>
 		<data>
@@ -83,7 +83,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		CYPyFlnXJ6rXryta+xtXo3mQiWU=
+		ukyrRy6CfciPo1wTdvUEIc0SthY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -91,19 +91,19 @@
 		</data>
 		<key>PrivateHeaders/Params.h</key>
 		<data>
-		88p5DIUwy5voDW00KWGW6KYBcVY=
+		ZiBdm65J7jtmCpfv0vmTDBHjSkA=
 		</data>
 		<key>assets/node_modules/react-native-url-polyfill/package.json</key>
 		<data>
-		JeyaPaT8c5qBClW5gGa3YQR7sLw=
+		8iSTUB6ryYOfXPoJzT8bvjP9raM=
 		</data>
 		<key>assets/node_modules/react-native/package.json</key>
 		<data>
-		qJjNa8UXBf9RV8C6/923mSXNcoY=
+		3LX2GoyeGjx6zhvwPTHpTo03B2U=
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		ci9DgLSCKFku15+W7rS207qXaw0=
+		j8i7r5POqxq2JB6hcslxjgWgDLA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -112,14 +112,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/N1gkz/Ic2ijHiFFZFcZK3Z3KvCNPNhEy8jGs37132M=
+			5YDynG3TYCwgz3lDGmWtzI60Zc7trR2O/iWDTtfdNyM=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tR1+P3mjRwjKLN/VcU/H05rDR8OGIY1Jn8X+0u9a790=
+			42BHNnvWxeTlejzmx1Th3i35MYecDwYOtUsr/uZo6Gw=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeRequirements</key>
@@ -133,7 +133,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7IQE3VTxQ38KZy60ytOJP7qidP7r8spmORGyQ2DJi2g=
+			oRygQLGeYqBOVOzXsFgL5kZpUy++C7uPvLn1QzSP0UA=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeResources</key>
@@ -163,35 +163,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			n/PVO6Ve/r7/GxrQU1H+dAMffed2A8dxgAPlHBCOsD4=
+			3AXUhg7Q1Nsq5Jyr87J5fc4xUNr1qrS7EMHBSJoocrU=
 			</data>
 		</dict>
 		<key>Frameworks/WebRTC.framework/WebRTC</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6o87ZxFkOsN2sdYTrywnCfEr51qiSxReQy/Dp5Pcm78=
+			r4qNm/IQ5dXQXU/1V1BGzlTE71DiM6Dl54bGyPY/na8=
 			</data>
 		</dict>
 		<key>Frameworks/WebRTC.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			62yyNB8BT9hiqSSSKgeqz04yAg4sn1CrAG4c9sKC87c=
+			LMXQ4huRjTDmKMla0T86V1ASb25opLOq6+czzgvwXd8=
 			</data>
 		</dict>
 		<key>Headers/Conference.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9Z87VTM+G1Fv+HmR51bh4TeB8UOSHWB7aL/0wZnAsOY=
+			mCkfMvZRq9fOlESqhXI2LF+OC+l+lmOWoiASfPdpu/4=
 			</data>
 		</dict>
 		<key>Headers/Connection.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			R83L+VtG/8p0vCDPoVYPCDU/yqwlzjka4tgPhNe2m8Y=
+			07qZJdyYVHWBFrbf70qLfxxThNvzuIDHjdMTGs/Ztac=
 			</data>
 		</dict>
 		<key>Headers/JitsiLocalTrack.h</key>
@@ -226,7 +226,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			I1jtPZF6jpS1rXO873RqOVQfmDwR3+LJpLPrEtoCi4A=
+			e/J8p4C1DOCA3ol2BHYweeSVzMgeuQ1bbdEQe2+Txag=
 			</data>
 		</dict>
 		<key>Headers/sariska.h</key>
@@ -247,28 +247,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cY/giLYkn6XqP6SKwX0bMK/sld4M6PNNvgs92Qdv36U=
+			rZFOi6kDMYo3Q82cUvtRgafDmzG7g1EVo+u2UxUVSqY=
 			</data>
 		</dict>
 		<key>assets/node_modules/react-native-url-polyfill/package.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kj23xLydyhfWLDGy3iNLfZmGHAwxrMXdxhs8G8MNjUY=
+			762/prPhIHyzc3NUBMQIt88hc/L9YJoXywdXEJc1dns=
 			</data>
 		</dict>
 		<key>assets/node_modules/react-native/package.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			v2YijfOQo0PLYH3IhkUH0QLff2OhpVy0fx/Wda/m6HA=
+			RG5ogK5DeoWTc9z7q1Gr5NmZOzMw6Qnw/UjzkBQGkVQ=
 			</data>
 		</dict>
 		<key>main.jsbundle</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cKHn+9i+41wfcMR8g6Zv6DGj5e0TDvqxwBXHyebmLfA=
+			G7jG8puJL4za1sqyw1RIvV5eWUTXOgx4+C2qtunoL8s=
 			</data>
 		</dict>
 	</dict>

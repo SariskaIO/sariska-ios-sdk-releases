@@ -15,8 +15,9 @@
 + (NSDictionary *)createParams:(NSString *)action fromInt:(NSNumber *) fromInt  fromString: (NSString *) fromString;
 + (NSDictionary *)createParams:(NSString *)action fromDict: (NSDictionary *) fromDict;
 + (NSDictionary *)createParams:(NSString *)action fromArr: (NSMutableArray *) fromArr;
-+ (NSDictionary *)createConnection:(NSString *)token;
++ (NSDictionary *)createConnection:(NSString *)token roomName: (NSString *) roomName isNightly:  (BOOL) isNightly;
 + (NSDictionary *)createConference;
++ (NSDictionary *)createConferenceWithParams:(NSDictionary *) options;
 + (NSDictionary *)createTrackParams:(NSDictionary *)param1;
 
 @end

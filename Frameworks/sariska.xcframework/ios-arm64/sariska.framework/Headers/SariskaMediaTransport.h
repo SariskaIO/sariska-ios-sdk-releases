@@ -15,6 +15,7 @@ typedef void(^LocalTrackCallback)(NSMutableArray * tracks);
 + (NSMutableArray <JitsiLocalTrack*> *)getLocalTracks;
 - (void)newSariskaMediaTransportMessage: (NSString *) action m: (NSDictionary *) m;
 - (void)newLocalTrackMessage: (NSString * )action  m: (NSArray *) m;
++ (void)setLogLevel: ( NSString *) logLevel;
 
 @end
 NS_ASSUME_NONNULL_END
