@@ -9,7 +9,7 @@ typedef void(^LocalTrackCallback)(NSMutableArray * tracks);
 @property (class) LocalTrackCallback callback;
 
 + (void)initializeSdk;
-+ (Connection *)JitsiConnection:(NSString *)token NS_SWIFT_NAME(JitsiConnection(token:));
++ (Connection *)JitsiConnection:(NSString *)token roomName: (NSString *) roomName isNightly: (BOOL) isNightly NS_SWIFT_NAME(JitsiConnection(token:));
 + (void)createLocalTracks: (NSDictionary *) options callback: (LocalTrackCallback) callback;
 + (void)sendEvent: (NSString * )eventName  payload: (NSDictionary *) payload;
 + (NSMutableArray <JitsiLocalTrack*> *)getLocalTracks;
