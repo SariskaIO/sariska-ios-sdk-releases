@@ -23,7 +23,7 @@
 		</data>
 		<key>Frameworks/WebRTC.framework/WebRTC</key>
 		<data>
-		sKdaEQDj4Vf6aQ1f3JaIkBcZgbA=
+		M8udoy8XtAgtM2pelTnXaCMJaMM=
 		</data>
 		<key>Frameworks/WebRTC.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -35,7 +35,7 @@
 		</data>
 		<key>Headers/Connection.h</key>
 		<data>
-		jO9C3bX8dd1GRqwsk1TYgwMoNRo=
+		kVsUKMAmfxvgDQ4FDJkwyrM2Df0=
 		</data>
 		<key>Headers/JitsiLocalTrack.h</key>
 		<data>
@@ -115,7 +115,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3Df2y4bD97+t3CCucTtwuPK8830noj6bgT3tl5x0CpM=
+			asMSi7HfTqJqcUtYaMfhzV6DiEVQ19vkH8qna9aqKZ8=
 			</data>
 		</dict>
 		<key>Frameworks/WebRTC.framework/_CodeSignature/CodeResources</key>
@@ -136,7 +136,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			07qZJdyYVHWBFrbf70qLfxxThNvzuIDHjdMTGs/Ztac=
+			swGJoMrRP8tW2dTuPpQSfbXFY1DfL9G8r1WiMDEMHFQ=
 			</data>
 		</dict>
 		<key>Headers/JitsiLocalTrack.h</key>

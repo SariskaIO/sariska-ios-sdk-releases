@@ -2,8 +2,8 @@
 #import "Conference.h"
 
 NS_ASSUME_NONNULL_BEGIN
-typedef void(^ConnectionCallback)(void);
-
+typedef void(^ConnectionCallback)();
+ 
 @interface Connection: NSObject
 
 @property (class) NSMutableDictionary *bindingsDel;
