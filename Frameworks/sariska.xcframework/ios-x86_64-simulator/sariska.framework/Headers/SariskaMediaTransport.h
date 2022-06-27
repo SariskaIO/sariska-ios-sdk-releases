@@ -14,7 +14,7 @@ typedef void(^LocalTrackCallback)(NSMutableArray * tracks);
 + (void)sendEvent: (NSString * )eventName  payload: (NSDictionary *) payload;
 + (NSMutableArray <JitsiLocalTrack*> *)getLocalTracks;
 - (void)newSariskaMediaTransportMessage: (NSString *) action m: (NSDictionary *) m;
-- (void)newLocalTrackMessage: (NSString * )action  m: (NSMutableArray *) m;
+- (void)newLocalTrackMessage: (NSString * )action  m: (NSArray *) m;
 + (void)setLogLevel: ( NSString *) logLevel;
 
 @end
