@@ -2,7 +2,7 @@
 #import "Conference.h"
 
 NS_ASSUME_NONNULL_BEGIN
-typedef void(^ConnectionCallback)();
+typedef void(^ConnectionCallback)(void);
  
 @interface Connection: NSObject
 
