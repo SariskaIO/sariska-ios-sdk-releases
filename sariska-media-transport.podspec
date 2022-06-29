@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'sariska-media-transport'
-  s.version          = '1.1.3.6'
+  s.version          = '1.1.3.7'
   s.summary          = 'Sariska iOS SDK'
   s.description      = 'Sariska is a WebRTC compatible, free and Open Source video conferencing system that provides browsers and mobile applications with Real Time Communications capabilities.'
   s.homepage         = 'https://github.com/SariskaIO/sariska-ios-sdk-releases'
