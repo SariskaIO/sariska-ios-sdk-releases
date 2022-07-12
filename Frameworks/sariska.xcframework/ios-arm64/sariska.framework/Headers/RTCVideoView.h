@@ -23,5 +23,5 @@
  */
 - (void)setObjectFit:(NSString *)objectFit;
 - (void)setMirror:(BOOL)mirror;
-
+@property(atomic, strong) RTCVideoFrame *videoFrame;
 @end
