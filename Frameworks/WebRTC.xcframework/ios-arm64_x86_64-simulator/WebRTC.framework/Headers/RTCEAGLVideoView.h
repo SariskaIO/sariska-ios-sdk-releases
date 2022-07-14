@@ -29,8 +29,6 @@ NS_EXTENSION_UNAVAILABLE_IOS("Rendering not available in app extensions.")
 
 @property(nonatomic, weak) id<RTC_OBJC_TYPE(RTCVideoViewDelegate)> delegate;
 
-@property(nonatomic, weak) RTCVideoFrame* videoFrameEGL;
-
 - (instancetype)initWithFrame:(CGRect)frame
                        shader:(id<RTC_OBJC_TYPE(RTCVideoViewShading)>)shader
     NS_DESIGNATED_INITIALIZER;

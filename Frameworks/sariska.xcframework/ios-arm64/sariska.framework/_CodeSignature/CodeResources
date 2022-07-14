@@ -23,7 +23,7 @@
 		</data>
 		<key>Frameworks/WebRTC.framework/WebRTC</key>
 		<data>
-		zzLEQnUl3m2546LpwyOJ1W5CVAw=
+		P+JJbB6qdQAQRsd7xi8NDa4nY80=
 		</data>
 		<key>Frameworks/WebRTC.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -51,7 +51,7 @@
 		</data>
 		<key>Headers/RTCVideoView.h</key>
 		<data>
-		IELUve2k56gwJeCb8AylnHNCvNk=
+		YUBkJhQEaP8/DtT4TPn8Bwux3UI=
 		</data>
 		<key>Headers/SariskaMediaTransport.h</key>
 		<data>
@@ -115,7 +115,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			H9b/NfRZjVvOF+KB5ehaI7UGE4FhIja41fqiiaD5b24=
+			RMTXNxgGuUfa6twCg0wr8O8BHqC7AoEs7cQ7mEIbSgA=
 			</data>
 		</dict>
 		<key>Frameworks/WebRTC.framework/_CodeSignature/CodeResources</key>
@@ -164,7 +164,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			r3/55TT8UJE5B0facF1IxMoyHpjH6yd1dfzN3B4MuzA=
+			9eIigfxfnUVkLqwKPIQ3WLshdaF29kg2gMxpKLSl3Wc=
 			</data>
 		</dict>
 		<key>Headers/SariskaMediaTransport.h</key>

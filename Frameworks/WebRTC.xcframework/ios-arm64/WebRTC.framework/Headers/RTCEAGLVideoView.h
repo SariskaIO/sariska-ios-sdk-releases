@@ -14,7 +14,6 @@
 #import <WebRTC/RTCMacros.h>
 #import <WebRTC/RTCVideoRenderer.h>
 #import <WebRTC/RTCVideoViewShading.h>
-#import <WebRTC/RTCVideoFrame.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
@@ -30,8 +29,6 @@ NS_EXTENSION_UNAVAILABLE_IOS("Rendering not available in app extensions.")
 
 @property(nonatomic, weak) id<RTC_OBJC_TYPE(RTCVideoViewDelegate)> delegate;
 
-@property(nonatomic, weak) RTCVideoFrame* videoFrameEGL;
-
 - (instancetype)initWithFrame:(CGRect)frame
                        shader:(id<RTC_OBJC_TYPE(RTCVideoViewShading)>)shader
     NS_DESIGNATED_INITIALIZER;
@@ -43,7 +40,6 @@ NS_EXTENSION_UNAVAILABLE_IOS("Rendering not available in app extensions.")
 /** @abstract Wrapped RTCVideoRotation, or nil.
  */
 @property(nonatomic, nullable) NSValue *rotationOverride;
-
 @end
 
 NS_ASSUME_NONNULL_END
