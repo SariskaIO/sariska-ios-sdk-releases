@@ -23,7 +23,5 @@
  */
 - (void)setObjectFit:(NSString *)objectFit;
 - (void)setMirror:(BOOL)mirror;
-@property (nonatomic, strong) RTCVideoTrack *videoTrack;
-@property (nonatomic, readonly)  RTCMTLVideoView *mtlVideoView;
 
 @end
