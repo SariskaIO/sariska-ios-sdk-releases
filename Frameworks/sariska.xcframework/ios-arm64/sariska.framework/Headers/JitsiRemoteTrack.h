@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-#import "RTCVideoView.h"
+#import <react-native-webrtc/RTCVideoView.h>
 
 NS_ASSUME_NONNULL_BEGIN
 @interface JitsiRemoteTrack : NSObject
