@@ -23,7 +23,7 @@
 		</data>
 		<key>Frameworks/WebRTC.framework/WebRTC</key>
 		<data>
-		SYVM03AbTsnJnbMwH/7ODBS3Aps=
+		YxIuZKK1EZTnZdegxGMtwcd+dG4=
 		</data>
 		<key>Frameworks/WebRTC.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -55,7 +55,7 @@
 		</data>
 		<key>Headers/sariska.h</key>
 		<data>
-		93a7wD8bITkdukFRfuhKrjUBlis=
+		ljFx41vdgbd8iyQTctJBHhV8VGI=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -68,6 +68,14 @@
 		<key>PrivateHeaders/Params.h</key>
 		<data>
 		ZiBdm65J7jtmCpfv0vmTDBHjSkA=
+		</data>
+		<key>RTCVideoView+Private.h</key>
+		<data>
+		m43oYr9GkwKh6cWPx78C5KHkk1g=
+		</data>
+		<key>RTCVideoView.h</key>
+		<data>
+		YUBkJhQEaP8/DtT4TPn8Bwux3UI=
 		</data>
 		<key>assets/node_modules/react-native-url-polyfill/package.json</key>
 		<data>
@@ -111,7 +119,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tKMgum87LMDQLFy+NzJmd+NXIPJ3+K3sOgKJ0zQ+VLw=
+			buSTxtWCQMWOQYIjo+JU62Udf+Z6jNV3Qfr+EaEWk60=
 			</data>
 		</dict>
 		<key>Frameworks/WebRTC.framework/_CodeSignature/CodeResources</key>
@@ -167,7 +175,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CjbWDpaBcxt5xDt4Qlqr2LEyxOhKHGYveg1h3bvmqM0=
+			TKUzA9Qtttump2Jd7ayaOQEqu+flnGH+X4LQlJpekRs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -182,6 +190,20 @@
 			<key>hash2</key>
 			<data>
 			rZFOi6kDMYo3Q82cUvtRgafDmzG7g1EVo+u2UxUVSqY=
+			</data>
+		</dict>
+		<key>RTCVideoView+Private.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+UuDdRyfq99tpSHQVhmzRfvLja/M9JSasp6u/jSJ+NQ=
+			</data>
+		</dict>
+		<key>RTCVideoView.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9eIigfxfnUVkLqwKPIQ3WLshdaF29kg2gMxpKLSl3Wc=
 			</data>
 		</dict>
 		<key>assets/node_modules/react-native-url-polyfill/package.json</key>

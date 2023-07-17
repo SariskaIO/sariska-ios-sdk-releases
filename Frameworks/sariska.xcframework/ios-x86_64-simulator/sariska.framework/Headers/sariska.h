@@ -14,3 +14,4 @@ FOUNDATION_EXPORT const unsigned char sariskaVersionString[];
 #import <sariska/Conference.h>
 #import <sariska/JitsiLocalTrack.h>
 #import <sariska/JitsiRemoteTrack.h>
+#import <react-native-webrtc/RTCVideoView.h>
