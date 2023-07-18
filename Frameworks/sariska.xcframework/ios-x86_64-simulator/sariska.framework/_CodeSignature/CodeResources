@@ -31,7 +31,7 @@
 		</data>
 		<key>Headers/Conference.h</key>
 		<data>
-		uunxAcx9pQNGRlytgi6fk4EP9ac=
+		aKmTcd3oG6kvmliGjoo5biFm8e0=
 		</data>
 		<key>Headers/Connection.h</key>
 		<data>
@@ -39,15 +39,19 @@
 		</data>
 		<key>Headers/JitsiLocalTrack.h</key>
 		<data>
-		3LJMCB6j+BABY1Cerj9jinMppo8=
+		QFEL2xsyFNmiEQzADxPXXVbplqA=
 		</data>
 		<key>Headers/JitsiRemoteTrack.h</key>
 		<data>
-		eRDzVFqgohy+cT4t8bJPnl2GQ8U=
+		JID0dt1HzBZorMZKISesUwAALbY=
 		</data>
 		<key>Headers/Participant.h</key>
 		<data>
 		9yG4YXdr+bRVgiS1YN3vqJNVzts=
+		</data>
+		<key>Headers/RTCVideoView.h</key>
+		<data>
+		YUBkJhQEaP8/DtT4TPn8Bwux3UI=
 		</data>
 		<key>Headers/SariskaMediaTransport.h</key>
 		<data>
@@ -55,7 +59,7 @@
 		</data>
 		<key>Headers/sariska.h</key>
 		<data>
-		ljFx41vdgbd8iyQTctJBHhV8VGI=
+		93a7wD8bITkdukFRfuhKrjUBlis=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -68,14 +72,6 @@
 		<key>PrivateHeaders/Params.h</key>
 		<data>
 		ZiBdm65J7jtmCpfv0vmTDBHjSkA=
-		</data>
-		<key>RTCVideoView+Private.h</key>
-		<data>
-		m43oYr9GkwKh6cWPx78C5KHkk1g=
-		</data>
-		<key>RTCVideoView.h</key>
-		<data>
-		YUBkJhQEaP8/DtT4TPn8Bwux3UI=
 		</data>
 		<key>assets/node_modules/react-native-url-polyfill/package.json</key>
 		<data>
@@ -133,7 +129,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mCkfMvZRq9fOlESqhXI2LF+OC+l+lmOWoiASfPdpu/4=
+			UuHaT2SbdBbkP0T7sb5CNpUaeKXXeYFfmYBbIj86FNo=
 			</data>
 		</dict>
 		<key>Headers/Connection.h</key>
@@ -147,14 +143,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DQcCrXzPjA8ReOJEnZAvTC4MEr69lWdHJigOu8FCcp0=
+			xVmtgBoqnkZfLFm2nPS9MxWJd9lC8iq+pEJbWcCsre4=
 			</data>
 		</dict>
 		<key>Headers/JitsiRemoteTrack.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X1e8C0yqLYW7q75jUCXaCACopplYHUrB58qB6k5E+fc=
+			FOGavDpa+e6UjdigNBpLRk2bOppv0WQL4zPi6sCn3Mk=
 			</data>
 		</dict>
 		<key>Headers/Participant.h</key>
@@ -162,6 +158,13 @@
 			<key>hash2</key>
 			<data>
 			GtSH4b6Ra0WpW3wq6mz/cz8QAC5u1eCs8JDOE0kqOuQ=
+			</data>
+		</dict>
+		<key>Headers/RTCVideoView.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9eIigfxfnUVkLqwKPIQ3WLshdaF29kg2gMxpKLSl3Wc=
 			</data>
 		</dict>
 		<key>Headers/SariskaMediaTransport.h</key>
@@ -175,7 +178,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TKUzA9Qtttump2Jd7ayaOQEqu+flnGH+X4LQlJpekRs=
+			CjbWDpaBcxt5xDt4Qlqr2LEyxOhKHGYveg1h3bvmqM0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -190,20 +193,6 @@
 			<key>hash2</key>
 			<data>
 			rZFOi6kDMYo3Q82cUvtRgafDmzG7g1EVo+u2UxUVSqY=
-			</data>
-		</dict>
-		<key>RTCVideoView+Private.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+UuDdRyfq99tpSHQVhmzRfvLja/M9JSasp6u/jSJ+NQ=
-			</data>
-		</dict>
-		<key>RTCVideoView.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			9eIigfxfnUVkLqwKPIQ3WLshdaF29kg2gMxpKLSl3Wc=
 			</data>
 		</dict>
 		<key>assets/node_modules/react-native-url-polyfill/package.json</key>
