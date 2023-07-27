@@ -6,7 +6,7 @@
 	<dict>
 		<key>AccessibilityResources.bundle/Info.plist</key>
 		<data>
-		hQdHlxouaUCIDuVI6Txitds0ngw=
+		yG08tsbxzT6CfBhcDVvckHUMsgA=
 		</data>
 		<key>AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -19,15 +19,15 @@
 		</dict>
 		<key>Frameworks/WebRTC.framework/Info.plist</key>
 		<data>
-		/zlHzk1T019ktHVgvddfuXLsvJg=
+		GE1f5qWpx2ur1bSbl+IQx5ozrcc=
 		</data>
 		<key>Frameworks/WebRTC.framework/WebRTC</key>
 		<data>
-		BrPyE/w4MdjpHIiMt1eIfaJPw0U=
+		cTHZa7CnOEgISzioxt9BNv/DR9M=
 		</data>
 		<key>Frameworks/WebRTC.framework/_CodeSignature/CodeResources</key>
 		<data>
-		KV1LPLrJJwHFpvlU7SoC266EMgU=
+		/19yo8Dp951CUHj0mSEWhjwRL4Q=
 		</data>
 		<key>Headers/Conference.h</key>
 		<data>
@@ -83,7 +83,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		OohR6yzKAM0rZ5shbJlSHZJlLTk=
+		ToffgMuqx3wdXiY8hwThr/tHm4s=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -92,7 +92,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3lCgznU2bYLuwXnmxKz4XiwY6iU1jslgS+o1Xd4i39w=
+			NpIJOOeZFG52FvAyQ6MFtBQnSMa+m9E6R7Z7IS+WW58=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
@@ -108,21 +108,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3AXUhg7Q1Nsq5Jyr87J5fc4xUNr1qrS7EMHBSJoocrU=
+			iE2cFKpn/Yc8b3plfo0rywRbyXz0XYo7SOT7/NrKP4g=
 			</data>
 		</dict>
 		<key>Frameworks/WebRTC.framework/WebRTC</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			r4qNm/IQ5dXQXU/1V1BGzlTE71DiM6Dl54bGyPY/na8=
+			Eos+2PYbSpjfOHtQ8cw5GBTDYlAqKy+QeCnnDbGpgK0=
 			</data>
 		</dict>
 		<key>Frameworks/WebRTC.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LMXQ4huRjTDmKMla0T86V1ASb25opLOq6+czzgvwXd8=
+			ESbJzJ1bxYILrsJ4qyRl0ah8wJvjfAqwyaqlN2Yse5Q=
 			</data>
 		</dict>
 		<key>Headers/Conference.h</key>
@@ -213,7 +213,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SWNIFhQoAtkA5bhwWWhKmVApxZcJNsELfK8y/v+B1dM=
+			BIxqacQM1l+5qHwHL7AnI5T2HUCyctG/hFbcmDfKulg=
 			</data>
 		</dict>
 	</dict>
