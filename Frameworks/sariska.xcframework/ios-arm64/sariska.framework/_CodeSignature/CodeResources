@@ -6,7 +6,7 @@
 	<dict>
 		<key>AccessibilityResources.bundle/Info.plist</key>
 		<data>
-		w2J4lyTf2bolWLoUISEHAXJbYL0=
+		bkv7KVB/z/Zyq//N24+6tg1+X7s=
 		</data>
 		<key>AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -19,15 +19,15 @@
 		</dict>
 		<key>Frameworks/WebRTC.framework/Info.plist</key>
 		<data>
-		PqPZ39/pnXJqclueajFmnczufOA=
+		eI5wBn1OTEPSwl33z6jkyAGQ8AE=
 		</data>
 		<key>Frameworks/WebRTC.framework/WebRTC</key>
 		<data>
-		j+eHYi/NvJl+XyCDdGm+P1Wpz+M=
+		rqd0r+Kb9a7yxcnYCchun6Qxs7Q=
 		</data>
 		<key>Frameworks/WebRTC.framework/_CodeSignature/CodeResources</key>
 		<data>
-		8sLaOR/ee4DGtNL+Zoptpg9DRIs=
+		6odthJtYxdsiUmMlXMACHBS1zEM=
 		</data>
 		<key>Headers/Conference.h</key>
 		<data>
@@ -39,7 +39,7 @@
 		</data>
 		<key>Headers/JitsiLocalTrack.h</key>
 		<data>
-		QFEL2xsyFNmiEQzADxPXXVbplqA=
+		7+1Q9sbtnVuZWtLwkPXUlfT5ZXg=
 		</data>
 		<key>Headers/JitsiRemoteTrack.h</key>
 		<data>
@@ -63,11 +63,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		9hA50PeQVDYaZI8elKUmsrq1pHs=
+		lBZ0TKfkLjjByJ6ONjpZsXgQITc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		/Ze2cy+ljUL3+ZzqkpKXvfwZs+0=
+		OeYH1Kp15W7kyyqlb46/XPlbaSE=
 		</data>
 		<key>PrivateHeaders/Params.h</key>
 		<data>
@@ -79,11 +79,11 @@
 		</data>
 		<key>assets/node_modules/react-native/package.json</key>
 		<data>
-		3LX2GoyeGjx6zhvwPTHpTo03B2U=
+		ZDeRKkCk2fy66N/OkXQ0keVm/Ps=
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		ToffgMuqx3wdXiY8hwThr/tHm4s=
+		ApMf/xnHS4oOamoKar9pSa6gh9s=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -92,7 +92,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2tZ1Xu54muYQajT7RE67Hu5D0AFp6for/4xNaPSWPTA=
+			bHWcTXBcuHqIJB33hpB5Nqb7DeJ4mLbzFI8DnFC19Rc=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
@@ -108,21 +108,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			T81RFhjRD5I14Y8TqFfnyiMwxr/eESqRTWauRcLFaLA=
+			27UXKPIPLEqNkZuyxTLRWL8x1LxYaDRUS3u9tNoL1t8=
 			</data>
 		</dict>
 		<key>Frameworks/WebRTC.framework/WebRTC</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xQP9ofnFkSJ3LV8mbpK07Cs1fYo3pQ4jyRLPh3YPR/M=
+			nbmG1KpQwuUPkyd+IGrVZGiT+lxE80CeenX1gOJFSGQ=
 			</data>
 		</dict>
 		<key>Frameworks/WebRTC.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pwxIhsy7XsQaJ0sxgxggB97f3cQTVZ9GrsUwf9Vb+Ws=
+			LzH35LnCaPCvXRlPHfEJCh++KvCETN0GYV1L3V8PRvo=
 			</data>
 		</dict>
 		<key>Headers/Conference.h</key>
@@ -143,7 +143,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xVmtgBoqnkZfLFm2nPS9MxWJd9lC8iq+pEJbWcCsre4=
+			4Q4CmDPMaIqdQEpUQMWdd+aa7GRTsRwNxJJcyHrwGso=
 			</data>
 		</dict>
 		<key>Headers/JitsiRemoteTrack.h</key>
@@ -185,7 +185,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nsalI7CIDYt7vZF/igkmfdLwC4Z6sjgzYK/hTOAawfA=
+			7v2MEYmzXfnL7DEMWBLQq2zHcQOpxXXMgUy8caieUuI=
 			</data>
 		</dict>
 		<key>PrivateHeaders/Params.h</key>
@@ -206,14 +206,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RG5ogK5DeoWTc9z7q1Gr5NmZOzMw6Qnw/UjzkBQGkVQ=
+			MHRVvE21h5nwCx7Svo+mdEU0+ibaNGxe5K2i9epxH7Y=
 			</data>
 		</dict>
 		<key>main.jsbundle</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BIxqacQM1l+5qHwHL7AnI5T2HUCyctG/hFbcmDfKulg=
+			DdA12OcynnDmgoAKyMTCPTpU6dWYfoYRE/nHg/yXxjU=
 			</data>
 		</dict>
 	</dict>
