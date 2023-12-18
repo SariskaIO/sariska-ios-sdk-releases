@@ -23,6 +23,7 @@ NS_ASSUME_NONNULL_BEGIN
 - (void)mute;
 - (void)unmute;
 - (void)dispose;
+- (void)toggleSpeaker:(BOOL) onSpeaker;
 - (RTCVideoView *)render;
 
 @end
